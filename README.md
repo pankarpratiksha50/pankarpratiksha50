@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankar Pratiksha</h1>
 <h3 align="center">I'm a passionate developer skilled in web development, data analysis, and data structures & algorithms using Java. I love building responsive websites, analyzing data to extract insights, and solving challenging problems with efficient code.m India</h3>
 
-
 - 🔭 I’m currently **pursueing on Electronic and Telecommuniacation Engineering.**
 
 - 🌱 I’m currently learning **big data analysis.**
@@ -26,3 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankarpratiksha50&show_icons=true&locale=en&layout=compact" alt="pankarpratiksha50" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankarpratiksha50&show_icons=true&locale=en" alt="pankarpratiksha50" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankarpratiksha50&" alt="pankarpratiksha50" /></p>
