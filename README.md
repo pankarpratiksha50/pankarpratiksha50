@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankar Pratiksha</h1>
-<h3 align="center">I'm a passionate developer skilled in web development, data analysis, and data structures & algorithms using Java. I love building responsive websites, analyzing data to extract insights, and solving challenging problems with efficient code.m India</h3>
+<h3 align="center">I'm a passionate developer skilled in web development, data analysis, and data structures & algorithms using Java. I love building responsive websites, analyzing data to extract insights, and solving challenging problems with efficient leet code</h3>
 
 - 🔭 I’m currently **pursueing on Electronic and Telecommuniacation Engineering.**
 
